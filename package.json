@@ -1,0 +1,11 @@
+{
+  "name": "cicd-dag-pipeline-runner",
+  "version": "2.1.0",
+  "description": "Distributed CI/CD DAG workflow orchestrator in TypeScript",
+  "type": "module",
+  "main": "./dist/index.js",
+  "scripts": {
+    "build": "tsc",
+    "test": "node --test"
+  }
+}
